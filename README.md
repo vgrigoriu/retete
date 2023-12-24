@@ -1,4 +1,4 @@
 # Rețete
 
-- [Chiftele](/rețete/chiftele)
+- [Chiftele](/recipes/chiftele.html)
 - a doua
