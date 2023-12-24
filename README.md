@@ -1,4 +1,4 @@
 # Rețete
 
-- prima
+- [Chiftele](/rețete/chiftele)
 - a doua
