@@ -12,10 +12,11 @@ bacon sau gușă de porc afumată și parmezan sau grana padano.
 - gălbenușuri
 - pecorino romano
 - usturoi (tocat mărunt)
+- sare, piper
 
 ## Pași
 
-Se fierb pastele după instrucțiunile de pe pachete, în apă sărată.
+Se fierb pastele după instrucțiunile de pe pachet, în apă sărată.
 
 Între timp se taie carnea cubulețe și se pune în tigaie la foc mediu.
 
