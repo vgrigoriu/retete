@@ -1,6 +1,1 @@
----
-title: Rețete
----
-
-- [Chiftele](/retete/recipes/chiftele.html)
-- a doua
+Jekyll site, deployed via Github Actions to https://vgrigoriu.github.io/retete.
