@@ -1,4 +1,6 @@
-# Chiftele moldovenești
+---
+title: Chiftele moldovenești
+---
 
 ## Ingrediente
 

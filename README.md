@@ -1,4 +1,6 @@
-# Rețete
+---
+title: Rețete
+---
 
-- [Chiftele](/recipes/chiftele.html)
+- [Chiftele](/retete/recipes/chiftele.html)
 - a doua
